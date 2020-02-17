@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config-mx",
+  "version": "1.0.0",
+  "description": "Shared prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxenabled/prettier-config-mx.git"
+  },
+  "author": "MX Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxenabled/prettier-config-mx/issues"
+  },
+  "homepage": "https://github.com/mxenabled/prettier-config-mx#readme",
+  "peerDependencies": {
+    "prettier": "1.19.1"
+  }
+}
